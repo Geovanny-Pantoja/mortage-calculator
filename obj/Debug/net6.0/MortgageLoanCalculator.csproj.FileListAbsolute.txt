@@ -1,0 +1,15 @@
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\bin\Debug\net6.0\MortgageLoanCalculator.exe
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\bin\Debug\net6.0\MortgageLoanCalculator.deps.json
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\bin\Debug\net6.0\MortgageLoanCalculator.runtimeconfig.json
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\bin\Debug\net6.0\MortgageLoanCalculator.dll
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\bin\Debug\net6.0\MortgageLoanCalculator.pdb
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.csproj.AssemblyReference.cache
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.AssemblyInfoInputs.cache
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.AssemblyInfo.cs
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.csproj.CoreCompileInputs.cache
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.dll
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\refint\MortgageLoanCalculator.dll
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.pdb
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\MortgageLoanCalculator.genruntimeconfig.cache
+C:\SkillMeUp\Anuprojects\BigChallenges\MortgageLoanCalculator\obj\Debug\net6.0\ref\MortgageLoanCalculator.dll
